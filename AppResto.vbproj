@@ -84,6 +84,16 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\ClsCtlKasir.vb" />
+    <Compile Include="Controls\ClsCtlKategori.vb" />
+    <Compile Include="Controls\ClsCtlMenu.vb" />
+    <Compile Include="Controls\ClsCtlPenjualan.vb" />
+    <Compile Include="Controls\InfProses.vb" />
+    <Compile Include="Entity\ClsEntDetailJual.vb" />
+    <Compile Include="Entity\ClsEntKasir.vb" />
+    <Compile Include="Entity\ClsEntKategori.vb" />
+    <Compile Include="Entity\ClsEntMenu.vb" />
+    <Compile Include="Entity\ClsEntPenjualan.vb" />
     <Compile Include="Form\FormCariMenu.Designer.vb">
       <DependentUpon>FormCariMenu.vb</DependentUpon>
     </Compile>
@@ -121,6 +131,7 @@
     <Compile Include="Form\FormKategori.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Global\ModKoneksiDB.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -180,5 +191,6 @@
   <ItemGroup>
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
