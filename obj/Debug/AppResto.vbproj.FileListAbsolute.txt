@@ -1,0 +1,82 @@
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\AplikasiResto0591.exe.config
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\AplikasiResto0591.exe
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\AplikasiResto0591.pdb
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\AplikasiResto0591.xml
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\bin\Debug\stdole.dll
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AppResto.vbprojAssemblyReference.cache
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormCariMenu.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormCetakNota.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKasir.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKategori.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormLogin.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormMenu.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormPenjualan.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormUtama.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.Resources.resources
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AppResto.vbproj.GenerateResource.cache
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AppResto.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AppResto.vbproj.CopyComplete
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.exe
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.xml
+C:\Users\ACER\Documents\marcheilla\ASISTEN\PBD\modul doc\AplikasiResto0605\AplikasiResto0591\obj\Debug\AplikasiResto0591.pdb
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\AplikasiResto0591.exe.config
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\AplikasiResto0591.exe
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\AplikasiResto0591.pdb
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\AplikasiResto0591.xml
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\ShockwaveFlashObjects.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\bin\Debug\stdole.dll
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AppResto.vbprojAssemblyReference.cache
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormCariMenu.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormCetakNota.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKasir.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKategori.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormLogin.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormMenu.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormPenjualan.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormUtama.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.Resources.resources
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AppResto.vbproj.GenerateResource.cache
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AppResto.vbproj.CoreCompileInputs.cache
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AppResto.vbproj.CopyComplete
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.exe
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.xml
+D:\Genap 2020\AplikasiResto0591\AplikasiResto0591\obj\Debug\AplikasiResto0591.pdb
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AppResto.vbproj.AssemblyReference.cache
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AppResto.vbproj.SuggestedBindingRedirects.cache
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormCariMenu.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKasir.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormKategori.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormLogin.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormMenu.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.FormPenjualan.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.Resources.resources
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AppResto.vbproj.GenerateResource.cache
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AppResto.vbproj.CoreCompileInputs.cache
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.exe
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.xml
+F:\@melany\AplikasiResto0591-20230608T042333Z-001\AplikasiResto0591\obj\Debug\AplikasiResto0591.pdb
