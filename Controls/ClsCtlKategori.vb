@@ -14,7 +14,16 @@ Public Class ClsCtlKategori : Implements InfProses
     End Function
 
     Public Function tampilData() As DataView Implements InfProses.tampilData
-        Throw New NotImplementedException()
+        Try
+            DTA = New OdbcDataAdapter("SELECT * FROM kategori", BUKAKONEKSI)
+
+            DTS = New DataSet()
+            DTA.Fill(DTS, "Tabel_Kategori")
+            Dim grid As New DataView(DTS.Tables("Tabel_Kategori"))
+            Return grid
+        Catch ex As Exception
+            Throw New Exception(ex.Message)
+        End Try
     End Function
 
     Public Function cariData(kunci As String) As DataView Implements InfProses.cariData

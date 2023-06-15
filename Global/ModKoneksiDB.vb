@@ -6,7 +6,7 @@ Module ModKoneksiDB
     Public DTS As New DataSet
     Public DTT As New DataTable
     Public DTGrid As New DataTable
-    Public MyDB = "Driver={MySQL ODBC 5.1 Driver;Database=dbresto0669;server:localhost;uid=root"
+    Public MyDB = "Driver={MySQL ODBC 8.0 ANSI Driver};Database=dbresto_0669;server=localhost;uid=root;"
     Public koneksi As New OdbcConnection(MyDB)
     Public Function BUKAKONEKSI() As OdbcConnection
         Try
